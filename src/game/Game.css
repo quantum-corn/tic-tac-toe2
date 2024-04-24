@@ -1,0 +1,54 @@
+.Game>*{
+    display: inline;
+    float: left;
+}
+
+.Status {
+    height:4vh;
+    width:100vw;
+    padding: 2.5vmin;
+    color:rgb(112, 76, 182);
+    font-size: 3vmin;
+}
+
+.Board {
+    height:80vh;
+    width:80vw;
+}
+
+.History {
+    height:80vh;
+    width:20vw;
+    padding-top: 7.5vh;
+}
+
+.History>* {
+    display:block;
+    height:5vh;
+    width:10vw;
+    font-size: 1.5vmin;
+    color:rgb(112, 76, 182);
+    background-color: black;
+    border-color: rgb(112, 76, 182);
+    border-radius: 4%/18%;
+    border-style: ridge;
+    border-width: 1px;
+}
+
+.Row>* {
+    display:inline;
+    vertical-align: middle;
+    font-size: 10vmin;
+    color:rgb(112, 76, 182);
+    background-color: black;
+    border-color: rgb(112, 76, 182);
+    border-radius: 50%/50%;
+    border-style: ridge;
+    border-width: 1px;
+    
+}
+
+.Tile {
+    height:20vmin;
+    width:20vmin;  
+}
