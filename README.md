@@ -8,3 +8,17 @@ I just came out of working along the [official React tutorial](htpps://react.dev
 So now I try to make a serious independent tic-tac-toe, learning and simultaneously using Redux from their official [resources](https://redux.js.org/tutorials/quick-start).
 
 I also intend to build it so that it conforms to Google's [Progressive Web App](https://web.dev/explore/progressive-web-apps) specifications.
+
+---
+
+### Feature Roadmap
+
+- Enhance UI
+  - Pretty background
+  - Pretty blank tiles
+  - Improved layout
+  - Tile rotation
+  - Animated drawing
+- Embed win/loss counter
+- Multiplayer support (hard)
+- Native android app (maybe)
